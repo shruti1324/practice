@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>guest_login_and_logout</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fe0daf6f-73f9-4e7d-abcd-7cbc6f9c1d57</testCaseGuid>
+</TestCaseEntity>
